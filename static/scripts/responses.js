@@ -7,8 +7,9 @@ function getBotResponse(input) {
         return new Date().toLocaleTimeString();
     }
 
-    if (input == "hello") {
-        return "Chào bạn ! Tôi là Botchat.";
+    if (input == "anh yeu em") {
+        let heartConvert = input.replace(/yeu/g,'<3');
+        return "Ý của bạn là: "+ heartConvert;
     } else if (input == "tạm biệt") {
         return "Tạm biệt! Chúc bạn ngày mới tốt lành.";
     } else {
