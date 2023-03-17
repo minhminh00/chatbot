@@ -5,10 +5,20 @@ function getBotResponse(input) {
         return "Bot: It's "+ new Date().toLocaleTimeString()+" now";
     }
 
-    if (input == "hello") {
-        return "Chào bạn ! Tôi là Botchat.";
-    } else if (input == "tạm biệt") {
-        return "Tạm biệt! Chúc bạn ngày mới tốt lành.";
+    const arrayResponsHello = ["Hi there!", "Hello", "Good morning"];
+    // const arrayResponsTime = ["time is 09:38PM", "today is Monday"];
+    // const arrayAnswerTime = ['time', 'what time is it']
+
+    const arrayAnswerHello = ["hi", "hello", "bello", "good morning"]
+    var flagAnswer = false;
+    for (let i = 0; i < arrayAnswerHello.length; i++) {
+        if (input.toLowerCase().includes(arrayAnswerHello[i])) {
+            flagAnswer = true;
+            break;
+        }
+    }
+    if (!flagAnswer) {
+        return "Bot: I don't understand";
     } else {
         const botRepHello = Math.floor(Math.random() * arrayResponsHello.length);
         return "Bot: " + arrayResponsHello[botRepHello];
@@ -29,3 +39,6 @@ function getBotResponse(input) {
     //     return "Bot: " + arrayResponsWeather[botRepWeather];
     // }
 }
+
+
+
