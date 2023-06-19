@@ -25,5 +25,5 @@
 - Bạn nên chọn những chiếc xương gà có màu vàng óng, không bị tái, không có tụ máu và mùi hôi.
 - Kích thước xương gà vừa phải, bằng 2 - 3 đốt tay là vừa, không nên chọn xương quá to hoặc quá nhỏ.
 
-![alt tag](https://raw.github.com/danielgindi/Charts/master/Assets/feature_graphic.png)
+![alt tag]([https://raw.github.com/danielgindi/Charts/master/Assets/feature_graphic.png](https://cdn.tgdd.vn/Files/2019/10/16/1209082/cach-nau-canh-rau-cai-ngon-ngot-khong-biet-nau-an-cung-lam-duoc-202208271044008774.jpg)https://cdn.tgdd.vn/Files/2019/10/16/1209082/cach-nau-canh-rau-cai-ngon-ngot-khong-biet-nau-an-cung-lam-duoc-202208271044008774.jpg)
 
