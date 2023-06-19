@@ -1,7 +1,7 @@
 
 ### Chào mọi người
 
-# Nguyên liệu làm Canh cải ngọt thịt bằm
+## Nguyên liệu làm Canh cải ngọt thịt bằm
 -  Cải ngọt 500 gr
 - Thịt băm 200 gr
 - Xương gà 300 gr
@@ -12,9 +12,9 @@
 - Nước 1.5 lít
 - Gia vị thông dụng 1 ít
 
-## Questions & Issues
+## Dụng cụ thực hiện
 
-If you are having questions or problems, you should:
+### Cách chọn mua nguyên liệu tươi ngon
 
 - Make sure you are using the latest version of the library. Check the [**release-section**](https://github.com/danielgindi/Charts/releases).
 - Study the Android version's [**Documentation-Wiki**](https://github.com/PhilJay/MPAndroidChart/wiki)
